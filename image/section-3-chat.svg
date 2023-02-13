@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.021" height="26.022" viewBox="0 0 26.021 26.022">
+  <g id="chat_3_" data-name="chat (3)" transform="translate(0.245 0.251)">
+    <g id="Group_12485" data-name="Group 12485" transform="translate(0.005 0)">
+      <path id="Path_11955" data-name="Path 11955" d="M2.948,19.905a4.964,4.964,0,0,1-2.441-.642A.769.769,0,0,1,.2,18.186a5.407,5.407,0,0,0,.7-4.155A16.708,16.708,0,0,1,0,9.771a9.838,9.838,0,0,1,10-9.77,9.89,9.89,0,0,1,9.6,9.794A9.883,9.883,0,0,1,6.04,18.842a5.034,5.034,0,0,1-3.093,1.063ZM1.912,18.227a3.515,3.515,0,0,0,3.47-.818.758.758,0,0,1,.854-.139A8.34,8.34,0,0,0,18.09,9.8a8.285,8.285,0,0,0-16.569-.02,17.591,17.591,0,0,0,.887,4.055,6.765,6.765,0,0,1-.5,4.4Z" transform="translate(-0.005 0)" fill="#ff4591" stroke="#ff4591" stroke-width="0.5"/>
+    </g>
+    <g id="Group_12486" data-name="Group 12486" transform="translate(9.047 8.829)">
+      <path id="Path_11956" data-name="Path 11956" d="M156.682,156.462a5.034,5.034,0,0,1-3.093-1.063,9.912,9.912,0,0,1-10.18-1.626.758.758,0,1,1,.991-1.147,8.383,8.383,0,0,0,8.994,1.2.758.758,0,0,1,.854.139,3.515,3.515,0,0,0,3.47.818,6.737,6.737,0,0,1-.28-5.156c.005-.015.011-.03.018-.045a8.37,8.37,0,0,0-1.259-8.567.758.758,0,0,1,1.163-.972,9.847,9.847,0,0,1,2.265,6.286,9.731,9.731,0,0,1-.764,3.822,5.348,5.348,0,0,0,.569,4.593.769.769,0,0,1-.307,1.077A4.966,4.966,0,0,1,156.682,156.462Z" transform="translate(-143.147 -139.77)" fill="#821ffd" stroke="#821ffd" stroke-width="0.5"/>
+    </g>
+    <g id="Group_12490" data-name="Group 12490" transform="translate(4.187 8.634)">
+      <g id="Group_12487" data-name="Group 12487" transform="translate(4.419)">
+        <ellipse id="Ellipse_216" data-name="Ellipse 216" cx="1.199" cy="1.199" rx="1.199" ry="1.199" fill="#ff4591" stroke="#ff4591" stroke-width="0.5"/>
+      </g>
+      <g id="Group_12488" data-name="Group 12488">
+        <ellipse id="Ellipse_217" data-name="Ellipse 217" cx="1.199" cy="1.199" rx="1.199" ry="1.199" fill="#ff4591" stroke="#ff4591" stroke-width="0.5"/>
+      </g>
+      <g id="Group_12489" data-name="Group 12489" transform="translate(8.838)">
+        <ellipse id="Ellipse_218" data-name="Ellipse 218" cx="1.199" cy="1.199" rx="1.199" ry="1.199" fill="#ff4591" stroke="#ff4591" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

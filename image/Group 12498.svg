@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129.714" height="50.167" viewBox="0 0 129.714 50.167">
+  <g id="Group_12498" data-name="Group 12498" transform="translate(-200.286 -30.785)">
+    <g id="Group_3402" data-name="Group 3402" transform="translate(70.286 0.579)">
+      <path id="Path_14" data-name="Path 14" d="M235.03,147.323h6.341a.924.924,0,0,1,.906,1.114A21.458,21.458,0,0,1,233.2,161.8s-10.6,6.357-20.625,1.368c-.021-.01-.041-.019-.062-.028-.749-.29-15.03-6.36-12.134-24.894,0,0,2.7-15.059,20.272-16.411,0,0,8.495-.965,16.217,6.757a24.156,24.156,0,0,1,5.359,9.472.925.925,0,0,1-.9,1.147H235a.922.922,0,0,1-.855-.571c-.74-1.8-3.461-7.311-9.384-8.3a.81.81,0,0,1-.1-.023,13.315,13.315,0,0,0-12.527,3.134,14.285,14.285,0,0,0-4.056,14.4c1.183,4.054,4.368,8.35,12.38,9.315a13.056,13.056,0,0,0,13.7-9.223A.926.926,0,0,1,235.03,147.323Z" transform="translate(-69.995 -84.71)" fill="#00fff8"/>
+      <path id="Path_16" data-name="Path 16" d="M0,0H8.012" transform="translate(144.674 57.787)" fill="none" stroke="#ff7272" stroke-linecap="round" stroke-width="4"/>
+      <path id="Path_17" data-name="Path 17" d="M0,0V25.485" transform="translate(152.686 32.206)" fill="none" stroke="#ff7272" stroke-linecap="round" stroke-width="4"/>
+      <path id="Path_15" data-name="Path 15" d="M257.378,174a11.514,11.514,0,0,0-9.46,10.619s-.965,11.2,10.619,13.128c0,0,5.6.579,9.074-2.9" transform="translate(-108.65 -126.832)" fill="none" stroke="#00fff8" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <text id="CRONJ" transform="translate(256 66)" fill="#fff" font-size="20" font-family="NasalizationRg-Regular, Nasalization"><tspan x="0" y="0">CRONJ</tspan></text>
+  </g>
+</svg>
