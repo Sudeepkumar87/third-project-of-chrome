@@ -32,7 +32,7 @@
   
 }
 .container{
-  max-width: 700px;
+  
   width: 100%;
   padding: 25px 30px;
 }
@@ -42,7 +42,7 @@
 }
 .user-details{
   display:flex;
-  justify-content: center;
+  /* justify-content: center; */
   gap: 40px;
 }
 .input-box{
@@ -52,7 +52,7 @@
  
 }
 .input-box input{
- width: 488px;
+ width: 450px;
  height: 56px;
  outline: none;
  border-radius: 5px;
@@ -92,8 +92,7 @@
   padding-bottom: 30px;
 }
 .enquiry-main-div{
- justify-content: center;
- text-align: center;
+ padding:2rem;
  
 }
 .detail-main{
@@ -101,10 +100,12 @@
   right:30rem;
 }
 .form-space1{
-  position: relative;
-  width: 550px;
+  width: 750px;
+  padding: 1rem;
   height: 151px;
-  right:17rem;
+  margin-left: 1rem;
+  
+  
 }
 .detail-main p{
   font-size: 20px;
@@ -119,7 +120,8 @@
   background-color: #FF4591; */
 }
 .outbox-box{
-  padding-bottom: 30px;
+ 
+ 
   
 }
 .button-details{
@@ -158,5 +160,26 @@
     justify-content:baseline;
     align-self:baseline;
     gap: 0rem;
+  }
+  .form-space1{
+    width: 500px;
+   
+    
+    
+  }
+}
+@media(max-width:500px){
+  .input-box input{
+    width: 300px;
+   
+   }
+}
+@media(max-width:375px){
+  .input-box input{
+    width: 200px;
+   
+   }
+   .form-space1{
+    width: 210px;  
   }
 }
