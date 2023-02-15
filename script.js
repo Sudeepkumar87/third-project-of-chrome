@@ -1,4 +1,3 @@
-// this code is for hamburger menu
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-menu");
 
@@ -17,8 +16,11 @@ window.onscroll = () => {
     navBar.classList.remove("navActive")
   }
 }
+
+
 const tabs = document.querySelectorAll('[data-tab-target]')
 const tabContents = document.querySelectorAll('[data-tab-content]')
+
 tabs.forEach(tab =>{
   tab.addEventListener('click',()=>{
     const target = document.querySelector(tab.dataset.tabTarget);
